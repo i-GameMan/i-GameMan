@@ -11,9 +11,6 @@ I enjoy building things that are **clean**, **minimal**, and intentional. If an 
 * 💻 Starting **Computer Engineering (Ingeniería Informática)** at **INACAP**
 * 🌐 Interested in **app and web development**
 * 🧠 Focused on learning strong programming fundamentals
-* 🎸 Guitar player, into emotional and alternative rock tones
-* 🎧 Nirvana is my favorite band
-* 🎬 Anime fan, especially character-driven and darker stories (*CyberPunk Edgerunners* is my favorite)
 
 I value clarity, structure, and purpose over trends or hype.
 
@@ -64,3 +61,6 @@ Here you’ll find things like:
 * 🎶 I like complex chords more than basic ones
 * 🌙 I’m drawn to calm
 * ✨ I prefer quality over quantity
+* 🎸 Guitar player, into emotional and alternative rock tones
+* 🎧 Nirvana is my favorite band
+* 🎬 Anime fan, especially character-driven and darker stories (*CyberPunk Edgerunners* is my favorite)
