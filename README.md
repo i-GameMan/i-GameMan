@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hey there! 🌸
 
-<!--
-**i-GameMan/i-GameMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Benjamin**.
 
-Here are some ideas to get you started:
+I enjoy building things that are **clean**, **minimal**, and intentional. If an idea makes sense in my head, I’ll probably try to implement it and see how far it goes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About me
+
+* 💻 Starting **Computer Engineering (Ingeniería Informática)** at **INACAP**
+* 🌐 Interested in **app and web development**
+* 🧠 Focused on learning strong programming fundamentals
+* 🎸 Guitar player, into emotional and alternative rock tones
+* 🎧 Nirvana is my favorite band
+* 🎬 Anime fan, especially character-driven and darker stories (*CyberPunk Edgerunners* is my favorite)
+
+I value clarity, structure, and purpose over trends or hype.
+
+---
+
+## Tech interests
+
+* **Programming fundamentals:** logic, data structures, problem solving
+* **Web & apps:** learning how things work end-to-end
+* **UI/UX:** minimal, rounded, readable interfaces
+* **Tools & systems:** I like understanding *why* something works, not just *how*
+
+I prefer simple solutions that are well thought out.
+
+---
+
+## Projects
+
+Here you’ll find things like:
+
+* 🌐 Small web or app projects
+* 🧪 Practice repositories and experiments
+* 📘 Learning-focused code (notes, exercises, tests)
+* ⚙️ Personal tools or utilities
+
+
+---
+
+## Fun facts
+
+* 🐱 I have a cat named **Miño**
+* 🎶 I like complex chords more than basic ones
+* 🌙 I’m drawn to calm
+* ✨ I prefer quality over quantity
