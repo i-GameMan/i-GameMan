@@ -21,12 +21,28 @@ I value clarity, structure, and purpose over trends or hype.
 
 ## Tech interests
 
-* **Programming fundamentals:** logic, data structures, problem solving
+* **Programming fundamentals:** problem solving
 * **Web & apps:** learning how things work end-to-end
 * **UI/UX:** minimal, rounded, readable interfaces
 * **Tools & systems:** I like understanding *why* something works, not just *how*
 
 I prefer simple solutions that are well thought out.
+
+---
+
+## Tools I use
+
+**Languages:** currently learning and practicing ( Java / Python, depending on context)
+
+Web: HTML, CSS.
+
+Editors: VS Code
+
+Design: Figma (for simple UI ideas)
+
+Version control: Git & GitHub
+
+**I’m still learning** — these tools grow as I do
 
 ---
 
