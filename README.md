@@ -29,17 +29,13 @@ I prefer simple solutions that are well thought out.
 
 ## Tools I use
 
-**Languages:** currently learning and practicing ( Java / Python, depending on context)
+- **Languages:** Java, Python (learning, depending on context)
+- **Web:** HTML, CSS
+- **Editors:** VS Code
+- **Design:** Figma (simple UI ideas)
+- **Version control:** Git & GitHub
 
-Web: HTML, CSS.
-
-Editors: VS Code
-
-Design: Figma (for simple UI ideas)
-
-Version control: Git & GitHub
-
-**I’m still learning** — these tools grow as I do
+*I’m still learning — these tools grow as I do.*
 
 ---
 
