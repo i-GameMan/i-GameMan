@@ -8,8 +8,8 @@ I enjoy building things that are **clean**, **minimal**, and intentional. If an 
 
 ## About me
 
-* 💻 Starting **Computer Engineering (Ingeniería Informática)** at **INACAP**
-* 🌐 Interested in **app and web development**
+* 💻 Starting **Computer Engineering (IEI)** 
+* 🌐 Interested in **app development and cybersecurity**
 * 🧠 Focused on learning strong programming fundamentals
 
 I value clarity, structure, and purpose over trends or hype.
@@ -29,13 +29,12 @@ I prefer simple solutions that are well thought out.
 
 ## Tools I use
 
-- **Languages:** Java, Python (learning, depending on context)
-- **Web:** HTML, CSS
+- **Languages:** Python (next:JS)
 - **Editors:** VS Code
 - **Design:** Figma (simple UI ideas)
 - **Version control:** Git & GitHub
 
-*I’m still learning — these tools grow as I do.*
+*I’m still learning.*
 
 ---
 
@@ -43,7 +42,7 @@ I prefer simple solutions that are well thought out.
 
 Here you’ll find things like:
 
-* 🌐 Small web or app projects
+* 🌐 Small app projects
 * 🧪 Practice repositories and experiments
 * 📘 Learning-focused code (notes, exercises, tests)
 * ⚙️ Personal tools or utilities
@@ -58,5 +57,5 @@ Here you’ll find things like:
 * 🌙 I’m drawn to calm
 * ✨ I prefer quality over quantity
 * 🎸 Guitar player, into emotional and alternative rock tones
-* 🎧 Nirvana is my favorite band
-* 🎬 Anime fan, especially character-driven and darker stories (*CyberPunk Edgerunners* is my favorite)
+* 🎧 Nirvana is my favorite band but im an Ado obsessed.
+* 🎬 Anime fan, especially character-driven ones (*CyberPunk Edgerunners* is my favorite)
