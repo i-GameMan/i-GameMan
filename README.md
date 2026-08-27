@@ -8,7 +8,7 @@ I enjoy building things that are **clean**, **minimal**, and intentional. If an 
 
 ## About me
 
-* 💻 Starting **Computer Engineering (IEI)** 
+* 💻 **Computer Engineering student (IEI)** 
 * 🌐 Interested in **app development and cybersecurity**
 * 🧠 Focused on learning strong programming fundamentals
 
@@ -18,7 +18,7 @@ I value clarity, structure, and purpose over trends or hype.
 
 ## Tech interests
 
-* **Programming fundamentals:** problem solving
+* **Programming fundamentals:** problem-solving
 * **Web & apps:** learning how things work end-to-end
 * **UI/UX:** minimal, rounded, readable interfaces
 * **Tools & systems:** I like understanding *why* something works, not just *how*
@@ -29,12 +29,12 @@ I prefer simple solutions that are well thought out.
 
 ## Tools I use
 
-- **Languages:** Python (next:JS)
+- **Languages:** Python 
 - **Editors:** VS Code
 - **Design:** Figma (simple UI ideas)
 - **Version control:** Git & GitHub
 
-*I’m still learning.*
+*—You never see it comiiing*
 
 ---
 
@@ -57,5 +57,5 @@ Here you’ll find things like:
 * 🌙 I’m drawn to calm
 * ✨ I prefer quality over quantity
 * 🎸 Guitar player, into emotional and alternative rock tones
-* 🎧 Nirvana is my favorite band but im an Ado obsessed.
-* 🎬 Anime fan, especially character-driven ones (*CyberPunk Edgerunners* is my favorite)
+* 🎧 Nirvana is my favorite band, but I'm obsessed with Ado.
+* 🎬 Anime fan, especially character-driven stories (Cyberpunk: Edgerunners is my favorite).
